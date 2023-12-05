@@ -49,7 +49,6 @@ Project Structure
 
 **`helper.py`**: Provides a function for real-time visualization of training progress.
 
-**`requirements.txt`**: Lists project dependencies.
 
 ## Training and Results
 
