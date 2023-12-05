@@ -30,7 +30,7 @@ Run the Training Script:
 ## run it
 bash
 Copy code
-python agent.py
+## python agent.py 
 This will start the training process, and you can observe the training progress in the console.
 
 ## Visualization:
