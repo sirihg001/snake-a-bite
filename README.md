@@ -43,13 +43,13 @@ Project Structure
 
 **`agent.py`**: Contains the implementation of the reinforcement learning agent.
 
-**`game.py**`: Implements the SnakeGameAI environment.
+**`game.py`**: Implements the SnakeGameAI environment.
 
-**`model.py**`: Defines the Q-network and QTrainer classes for neural network training.
+**`model.py`**: Defines the Q-network and QTrainer classes for neural network training.
 
-**`helper.py**`: Provides a function for real-time visualization of training progress.
+**`helper.py`**: Provides a function for real-time visualization of training progress.
 
-**`requirements.txt**`: Lists project dependencies.
+**`requirements.txt`**: Lists project dependencies.
 
 ## Training and Results
 
